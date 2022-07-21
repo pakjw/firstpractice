@@ -3,6 +3,7 @@ team: Panthers
 manager: Sebastian
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 coach: Teddy
 
@@ -15,3 +16,9 @@ members:
 - Freddie
 =======
 >>>>>>> add-coach
+=======
+members:
+- Violet
+- Stella
+- Anthony
+>>>>>>> 7f20517 (bg)
